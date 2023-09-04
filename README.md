@@ -1,1 +1,1 @@
-# The-Informed-Renter
+# Informed-Renter
